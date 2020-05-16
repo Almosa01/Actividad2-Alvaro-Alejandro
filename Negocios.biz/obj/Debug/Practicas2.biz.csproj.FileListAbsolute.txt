@@ -1,0 +1,6 @@
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\Negocios.biz\bin\Debug\Negocios.biz.exe.config
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\Negocios.biz\bin\Debug\Negocios.biz.exe
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\Negocios.biz\bin\Debug\Negocios.biz.pdb
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\Negocios.biz\obj\Debug\Practicas2.biz.csprojAssemblyReference.cache
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\Negocios.biz\obj\Debug\Negocios.biz.exe
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\Negocios.biz\obj\Debug\Negocios.biz.pdb

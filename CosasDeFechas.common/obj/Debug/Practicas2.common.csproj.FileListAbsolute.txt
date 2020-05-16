@@ -1,0 +1,5 @@
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\CosasDeFechas.common\bin\Debug\CosasDeFechas.common.exe.config
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\CosasDeFechas.common\bin\Debug\CosasDeFechas.common.exe
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\CosasDeFechas.common\bin\Debug\CosasDeFechas.common.pdb
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\CosasDeFechas.common\obj\Debug\CosasDeFechas.common.exe
+C:\Users\Respec\Desktop\Actividad2 Alvaro y Alejandro\Actividad2\ActividadEval2\CosasDeFechas.common\obj\Debug\CosasDeFechas.common.pdb
